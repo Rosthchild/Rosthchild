@@ -6,12 +6,13 @@
 5. 위의 프로그램 다운로드 경로에 새로운 폴더 생성하기
 ex) 자동매매프로그램 또는 자동매매 등
 6. Visual Studio Code 실행 후 위의 폴더를 열어 터미널 생성 후 아래 명령어를 입력
-1) pip install pyupbit
-2) pip install openpyxl
-3 pip install schedule
-4) conda install -c conda-forge fbprophet
-5) pip install pystan --upgrade
+* pip install pyupbit
+* pip install openpyxl
+* pip install schedule
+* conda install -c conda-forge fbprophet
+* pip install pystan --upgrade
 -> Visual Studio Code 종료 후 다시 실행
+
 7. 클라우드 서버 생성
 8. 클라우드 서버 생성 후 아래 명령어를 입력
 Ubuntu 서버 명령어
